@@ -5,3 +5,7 @@
 
 ### Auto-gen examples 
 - https://microsoft.github.io/autogen/docs/Examples/#automated-multi-agent-chat
+
+### What's next for AI agentic workflows ft. Andrew Ng of AI Fund
+- https://youtu.be/sal78ACtGTc?feature=shared
+
